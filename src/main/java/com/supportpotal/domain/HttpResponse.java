@@ -1,5 +1,4 @@
 package com.supportpotal.domain;
-
 import org.springframework.http.HttpStatus;
 
 public class HttpResponse {
